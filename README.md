@@ -13,4 +13,4 @@ run_analysis.R performs the data transformations necessary to generate a tidy da
   4. The feature variables are given descriptive titles.
   5. The aformentioned data processing steps are implimented to create a new, tidy version of the human activity dataset which is then exported into the txt file tidyest_data.txt
   
-Codebook.md is a file that includes a brief description of the project, the variables within the dataset, and the processing steps the data undergoes in order to create the tidy dataset.
+Codebook is a file that includes a brief description of the project, the variables within the dataset, and the processing steps the data undergoes in order to create the tidy dataset.
